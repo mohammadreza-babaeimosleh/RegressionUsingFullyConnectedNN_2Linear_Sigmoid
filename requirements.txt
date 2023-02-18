@@ -1,0 +1,10 @@
+numpy==1.24.2
+pandas==1.5.2
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+graphviz==0.20.1
+hiddenlayer==0.3
+seaborn==0.12.2
+scikit-learn==1.2.1
+matplotlib==3.7.0
